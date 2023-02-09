@@ -1,1 +1,2 @@
 fast2.txt file explorer Stable
+version$ "1.0.7"
