@@ -35,7 +35,7 @@ def event_loop():
 			if sock is server_socket:
 				accept_connection(sock)
 			else:
-				send_message()
+				send_message(sock)
 
 
 if __name__ == "__main__":
